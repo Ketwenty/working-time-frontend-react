@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/pages/ProfilePage.jsx"],"names":["ProfilePage"],"mappings":"2FAAA,mEAEe,SAASA,IACtB,OAAO","file":"static/js/7.210913d6.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function ProfilePage() {\r\n  return <h1>Profile</h1>;\r\n}\r\n"],"sourceRoot":""}

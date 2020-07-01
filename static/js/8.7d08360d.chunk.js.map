@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/pages/TimePage.jsx"],"names":["TimePage"],"mappings":"2FAAA,mEAEe,SAASA,IACtB,OAAO","file":"static/js/8.7d08360d.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function TimePage() {\r\n  return <h1>Time</h1>;\r\n}\r\n"],"sourceRoot":""}

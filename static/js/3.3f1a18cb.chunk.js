@@ -1,0 +1,2 @@
+(this.webpackJsonpapp=this.webpackJsonpapp||[]).push([[3],{41:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return p}));var a=t(0),c=t.n(a);function p(){return c.a.createElement(a.Fragment,null,c.a.createElement("h1",null,"A propos !"),c.a.createElement("p",null,"Ceci est une application WEB cr\xe9\xe9e sur un ecosyst\xe8me ReactJS"))}}}]);
+//# sourceMappingURL=3.3f1a18cb.chunk.js.map

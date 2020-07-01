@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/pages/AccountPage.jsx"],"names":["AccountPage"],"mappings":"2FAAA,mEAEe,SAASA,IACtB,OAAO","file":"static/js/4.a0c06fed.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function AccountPage() {\r\n  return <h1>Compte</h1>;\r\n}\r\n"],"sourceRoot":""}

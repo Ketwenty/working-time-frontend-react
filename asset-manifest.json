@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/working-time-frontend-react/static/css/main.0717fe78.chunk.css",
+    "main.js": "/working-time-frontend-react/static/js/main.6fa20b21.chunk.js",
+    "main.js.map": "/working-time-frontend-react/static/js/main.6fa20b21.chunk.js.map",
+    "runtime-main.js": "/working-time-frontend-react/static/js/runtime-main.0567fa83.js",
+    "runtime-main.js.map": "/working-time-frontend-react/static/js/runtime-main.0567fa83.js.map",
+    "static/css/2.42e275dd.chunk.css": "/working-time-frontend-react/static/css/2.42e275dd.chunk.css",
+    "static/js/2.985610e4.chunk.js": "/working-time-frontend-react/static/js/2.985610e4.chunk.js",
+    "static/js/2.985610e4.chunk.js.map": "/working-time-frontend-react/static/js/2.985610e4.chunk.js.map",
+    "static/js/3.3f1a18cb.chunk.js": "/working-time-frontend-react/static/js/3.3f1a18cb.chunk.js",
+    "static/js/3.3f1a18cb.chunk.js.map": "/working-time-frontend-react/static/js/3.3f1a18cb.chunk.js.map",
+    "static/js/4.a0c06fed.chunk.js": "/working-time-frontend-react/static/js/4.a0c06fed.chunk.js",
+    "static/js/4.a0c06fed.chunk.js.map": "/working-time-frontend-react/static/js/4.a0c06fed.chunk.js.map",
+    "static/js/5.ee28f1ce.chunk.js": "/working-time-frontend-react/static/js/5.ee28f1ce.chunk.js",
+    "static/js/5.ee28f1ce.chunk.js.map": "/working-time-frontend-react/static/js/5.ee28f1ce.chunk.js.map",
+    "static/js/6.ed44aa14.chunk.js": "/working-time-frontend-react/static/js/6.ed44aa14.chunk.js",
+    "static/js/6.ed44aa14.chunk.js.map": "/working-time-frontend-react/static/js/6.ed44aa14.chunk.js.map",
+    "static/js/7.210913d6.chunk.js": "/working-time-frontend-react/static/js/7.210913d6.chunk.js",
+    "static/js/7.210913d6.chunk.js.map": "/working-time-frontend-react/static/js/7.210913d6.chunk.js.map",
+    "static/js/8.7d08360d.chunk.js": "/working-time-frontend-react/static/js/8.7d08360d.chunk.js",
+    "static/js/8.7d08360d.chunk.js.map": "/working-time-frontend-react/static/js/8.7d08360d.chunk.js.map",
+    "index.html": "/working-time-frontend-react/index.html",
+    "precache-manifest.5e9755d3c9dd999f74bffaa54580d8c7.js": "/working-time-frontend-react/precache-manifest.5e9755d3c9dd999f74bffaa54580d8c7.js",
+    "service-worker.js": "/working-time-frontend-react/service-worker.js",
+    "static/css/2.42e275dd.chunk.css.map": "/working-time-frontend-react/static/css/2.42e275dd.chunk.css.map",
+    "static/css/main.0717fe78.chunk.css.map": "/working-time-frontend-react/static/css/main.0717fe78.chunk.css.map",
+    "static/js/2.985610e4.chunk.js.LICENSE.txt": "/working-time-frontend-react/static/js/2.985610e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0567fa83.js",
+    "static/css/2.42e275dd.chunk.css",
+    "static/js/2.985610e4.chunk.js",
+    "static/css/main.0717fe78.chunk.css",
+    "static/js/main.6fa20b21.chunk.js"
+  ]
+}
